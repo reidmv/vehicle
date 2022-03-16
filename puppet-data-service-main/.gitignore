@@ -1,0 +1,15 @@
+# General or repo-level ignores
+/rerun.txt
+.rvmrc
+.byebug_history
+
+# App ignores
+/app/config/*
+/app/vendor/bundle
+
+# Client ignores
+/golang/pds-cli/pds-cli
+/golang/pds-cli/pds-cli.yaml
+
+# Packaging ignores
+/*.rpm
