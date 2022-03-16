@@ -1,5 +1,0 @@
-<%- | Array $lines,
-| -%>
-<% $lines.each |$line| { -%>
-<%= $line %>
-<% } -%>

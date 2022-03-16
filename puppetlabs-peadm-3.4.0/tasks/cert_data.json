@@ -1,8 +1,0 @@
-{
-  "description": "Return certificate data related to the Puppet agent",
-  "parameters": { },
-  "input_method": "stdin",
-  "implementations": [
-    {"name": "cert_data.rb"}
-  ]
-}

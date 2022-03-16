@@ -1,9 +1,0 @@
-{
-  "description": "Uninstall Puppet Enterprise",
-  "parameters": {
-  },
-  "input_method": "environment",
-  "implementations": [
-    {"name": "pe_uninstall.sh"}
-  ]
-}
