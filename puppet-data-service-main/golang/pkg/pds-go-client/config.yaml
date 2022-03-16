@@ -1,6 +1,0 @@
-output:
-  api.gen.go
-package: client
-generate:
-  - types
-  - client
